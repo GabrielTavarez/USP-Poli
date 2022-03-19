@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Sun Oct 31 22:30:55 2021
+[*]
+[dumpfile] "C:\Users\gabri\OneDrive\Documents\SD2\EP4-ULA\simul.ghw"
+[dumpfile_mtime] "Sun Oct 31 22:06:02 2021"
+[dumpfile_size] 1406
+[savefile] "C:\Users\gabri\OneDrive\Documents\SD2\EP4-ULA\forma.gtkw"
+[timestart] 0
+[size] 1920 983
+[pos] -155 -152
+*-22.000000 1970000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.testbench.
+[treeopen] top.testbench.dut.
+[sst_width] 280
+[signals_width] 200
+[sst_expanded] 1
+[sst_vpaned_height] 290
+@28
+top.testbench.clock_in
+#{top.testbench.op_in[1:0]} top.testbench.op_in[1] top.testbench.op_in[0]
+top.testbench.a_in
+top.testbench.ainvert_in
+top.testbench.b_in
+top.testbench.binvert_in
+top.testbench.cin_in
+top.testbench.less_in
+@200
+-
+@28
+top.testbench.result_out
+top.testbench.cout_out
+top.testbench.set_out
+top.testbench.overflow_out
+@200
+-
+@28
+top.testbench.dut.a_sel
+top.testbench.dut.b_sel
+top.testbench.dut.and_ab
+top.testbench.dut.or_ab
+top.testbench.dut.sum_s
+top.testbench.dut.cout
+top.testbench.dut.overflow_s
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,25 @@
+v 4
+file . "PR3A3.vhd" "9cdbb7173bb1ba52ebb8f6cc56032dcb2aa88f10" "20211017235245.319":
+  entity reg at 2( 78) + 0 on 179;
+  architecture arch of reg at 21( 365) + 0 on 180;
+  entity regfile at 42( 758) + 0 on 181;
+  architecture arch of regfile at 65( 1216) + 0 on 182;
+  entity ula at 132( 2470) + 0 on 183;
+  architecture arch of ula at 143( 2652) + 0 on 184;
+  entity calc at 157( 2963) + 0 on 185;
+  architecture arch of calc at 171( 3251) + 0 on 186;
+file . "calc_tb.vhd" "417759d425a98764e82e47c1c8d32cccf7aa898b" "20211017235247.894":
+  entity calc_tb at 1( 0) + 0 on 187;
+  architecture tb of calc_tb at 8( 129) + 0 on 188;
+file . "tb_calc.vhd" "91fa72f4729733518d7320669469d45f1f95f94c" "20211017154109.941":
+  entity testbench at 1( 0) + 0 on 55;
+  architecture arch_tb of testbench at 9( 135) + 0 on 56;
+file . "calc.vhd" "d7c31ed9af4476f3bd1f1c1d4c926b932385cecb" "20211017225529.174":
+  architecture calc_arch of calc at 15( 288) + 0 on 96;
+  architecture ula_arch of ula at 112( 2692) + 0 on 98;
+file . "regfile_spera.vhd" "faf345b7e9bcca632fb4f5c47694e31e71ea8e7b" "20211016204855.006":
+  architecture arch_reg of reg at 18( 315) + 0 on 16;
+  architecture arch_regfile of regfile at 58( 1256) + 0 on 18;
+file . "calc_cj_teste.vhd" "275d6a58609d9357fe7d3b756a1151a01b2d7178" "20211017233127.146":
+  architecture regfile_arch of regfile at 147( 3129) + 0 on 136;
+  architecture reg_arch of reg at 234( 5392) + 0 on 138;

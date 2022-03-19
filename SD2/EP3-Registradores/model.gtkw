@@ -1,0 +1,59 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Sun Oct 17 16:47:19 2021
+[*]
+[dumpfile] "C:\Users\gabri\OneDrive\Documents\SD2\EP3-Registradores\simul.ghw"
+[dumpfile_mtime] "Sun Oct 17 16:36:01 2021"
+[dumpfile_size] 14252
+[savefile] "C:\Users\gabri\OneDrive\Documents\SD2\EP3-Registradores\model.gtkw"
+[timestart] 0
+[size] 1920 983
+[pos] -1 -1
+*-22.000000 1000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.calc_tb.
+[treeopen] top.calc_tb.dut.
+[treeopen] top.calc_tb.dut.reg_bank.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[6].
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.
+[treeopen] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.
+[sst_width] 280
+[signals_width] 224
+[sst_expanded] 1
+[sst_vpaned_height] 290
+@28
+top.calc_tb.dut.op_s
+#{top.calc_tb.dut.opcode_s[1:0]} top.calc_tb.dut.opcode_s[1] top.calc_tb.dut.opcode_s[0]
+@22
+#{top.calc_tb.dut.oper1_s[4:0]} top.calc_tb.dut.oper1_s[4] top.calc_tb.dut.oper1_s[3] top.calc_tb.dut.oper1_s[2] top.calc_tb.dut.oper1_s[1] top.calc_tb.dut.oper1_s[0]
+#{top.calc_tb.dut.oper2_s[4:0]} top.calc_tb.dut.oper2_s[4] top.calc_tb.dut.oper2_s[3] top.calc_tb.dut.oper2_s[2] top.calc_tb.dut.oper2_s[1] top.calc_tb.dut.oper2_s[0]
+@28
+top.calc_tb.dut.regwrite
+top.calc_tb.dut.reset_s
+top.calc_tb.dut.clock_s
+@421
+#{top.calc_tb.dut.x_s[15:0]} top.calc_tb.dut.x_s[15] top.calc_tb.dut.x_s[14] top.calc_tb.dut.x_s[13] top.calc_tb.dut.x_s[12] top.calc_tb.dut.x_s[11] top.calc_tb.dut.x_s[10] top.calc_tb.dut.x_s[9] top.calc_tb.dut.x_s[8] top.calc_tb.dut.x_s[7] top.calc_tb.dut.x_s[6] top.calc_tb.dut.x_s[5] top.calc_tb.dut.x_s[4] top.calc_tb.dut.x_s[3] top.calc_tb.dut.x_s[2] top.calc_tb.dut.x_s[1] top.calc_tb.dut.x_s[0]
+#{top.calc_tb.dut.y_s[15:0]} top.calc_tb.dut.y_s[15] top.calc_tb.dut.y_s[14] top.calc_tb.dut.y_s[13] top.calc_tb.dut.y_s[12] top.calc_tb.dut.y_s[11] top.calc_tb.dut.y_s[10] top.calc_tb.dut.y_s[9] top.calc_tb.dut.y_s[8] top.calc_tb.dut.y_s[7] top.calc_tb.dut.y_s[6] top.calc_tb.dut.y_s[5] top.calc_tb.dut.y_s[4] top.calc_tb.dut.y_s[3] top.calc_tb.dut.y_s[2] top.calc_tb.dut.y_s[1] top.calc_tb.dut.y_s[0]
+#{top.calc_tb.dut.d_s[15:0]} top.calc_tb.dut.d_s[15] top.calc_tb.dut.d_s[14] top.calc_tb.dut.d_s[13] top.calc_tb.dut.d_s[12] top.calc_tb.dut.d_s[11] top.calc_tb.dut.d_s[10] top.calc_tb.dut.d_s[9] top.calc_tb.dut.d_s[8] top.calc_tb.dut.d_s[7] top.calc_tb.dut.d_s[6] top.calc_tb.dut.d_s[5] top.calc_tb.dut.d_s[4] top.calc_tb.dut.d_s[3] top.calc_tb.dut.d_s[2] top.calc_tb.dut.d_s[1] top.calc_tb.dut.d_s[0]
+#{top.calc_tb.dut.q1_s[15:0]} top.calc_tb.dut.q1_s[15] top.calc_tb.dut.q1_s[14] top.calc_tb.dut.q1_s[13] top.calc_tb.dut.q1_s[12] top.calc_tb.dut.q1_s[11] top.calc_tb.dut.q1_s[10] top.calc_tb.dut.q1_s[9] top.calc_tb.dut.q1_s[8] top.calc_tb.dut.q1_s[7] top.calc_tb.dut.q1_s[6] top.calc_tb.dut.q1_s[5] top.calc_tb.dut.q1_s[4] top.calc_tb.dut.q1_s[3] top.calc_tb.dut.q1_s[2] top.calc_tb.dut.q1_s[1] top.calc_tb.dut.q1_s[0]
+@200
+-
+@420
+#{top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[15:0]} top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[15] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[14] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[13] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[12] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[11] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[10] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[9] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[8] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[7] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[6] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[5] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[4] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[3] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[2] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[1] top.calc_tb.dut.reg_bank.gen_regs[0].i_geral.reg_i.q_s[0]
+#{top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[15:0]} top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[15] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[14] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[13] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[12] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[11] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[10] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[9] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[8] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[7] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[6] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[5] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[4] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[3] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[2] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[1] top.calc_tb.dut.reg_bank.gen_regs[1].i_geral.reg_i.q_s[0]
+#{top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[15:0]} top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[15] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[14] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[13] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[12] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[11] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[10] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[9] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[8] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[7] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[6] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[5] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[4] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[3] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[2] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[1] top.calc_tb.dut.reg_bank.gen_regs[2].i_geral.reg_i.q_s[0]
+#{top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[15:0]} top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[15] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[14] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[13] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[12] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[11] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[10] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[9] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[8] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[7] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[6] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[5] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[4] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[3] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[2] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[1] top.calc_tb.dut.reg_bank.gen_regs[3].i_geral.reg_i.q_s[0]
+#{top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[15:0]} top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[15] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[14] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[13] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[12] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[11] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[10] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[9] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[8] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[7] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[6] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[5] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[4] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[3] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[2] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[1] top.calc_tb.dut.reg_bank.gen_regs[4].i_geral.reg_i.q_s[0]
+#{top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[15:0]} top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[15] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[14] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[13] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[12] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[11] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[10] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[9] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[8] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[7] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[6] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[5] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[4] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[3] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[2] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[1] top.calc_tb.dut.reg_bank.gen_regs[5].i_geral.reg_i.q_s[0]
+#{top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[15:0]} top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[15] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[14] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[13] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[12] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[11] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[10] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[9] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[8] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[7] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[6] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[5] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[4] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[3] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[2] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[1] top.calc_tb.dut.reg_bank.gen_regs[6].i_geral.reg_i.q_s[0]
+[pattern_trace] 1
+[pattern_trace] 0

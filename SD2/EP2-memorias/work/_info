@@ -1,0 +1,152 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\gabri\OneDrive\Documents\SD2\EP2-memorias
+T_opt
+V9a^BT?Mj?ENGM;BVIMZ6U1
+04 20 25 work rom_arquivo_generica rom_arquivo_generica_arch 1
+=1-a463a15b365b-6159d417-1be-2fcc
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1d;51
+T_opt1
+VFT_WC]8Q1CFT6z?]ZG_Ri0
+04 11 16 work rom_simples rom_simples_arch 1
+=1-a463a15b365b-6159c1b3-265-25b0
+R1
+n@_opt1
+R2
+Z3 dC:\Users\gabri\OneDrive\Documents\SD2\EP2-memorias
+T_opt2
+VC^KAOXoF:]ZkHZX>EB[L=0
+04 11 16 work rom_arquivo rom_arquivo_arch 1
+=1-a463a15b365b-6159c92f-125-2690
+R1
+n@_opt2
+R2
+R3
+Erom_arquivo
+Z4 w1633274138
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 11 numeric_bit 0 22 RE9LDG5Y>ElDk`fY=9GM]2
+R3
+Z7 8C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_arquivo.vhd
+Z8 FC:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_arquivo.vhd
+l0
+L6
+V9<^A2zA131oRKJS>l:GeR3
+Z9 OL;C;10.1d;51
+32
+Z10 !s108 1633274666.850000
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_arquivo.vhd|
+Z12 !s107 C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_arquivo.vhd|
+Z13 o-work work
+Z14 tExplicit 1
+!s100 5WFmEbL2>ndiH?_d@zmW>1
+!i10b 1
+Arom_arquivo_arch
+R5
+R6
+DEx4 work 11 rom_arquivo 0 22 9<^A2zA131oRKJS>l:GeR3
+l38
+L13
+V?hRaZ:fz;@gR@^^[OO=XH3
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 @=keE0nYY0FVFDzLfkle;0
+!i10b 1
+Erom_arquivo_generica
+Z15 w1633276890
+R5
+R6
+R3
+Z16 8C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_arquivo_generica.vhd
+Z17 FC:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_arquivo_generica.vhd
+l0
+L6
+VnbYn4fDe:?PXm2XfHL^@j2
+R9
+32
+Z18 !s108 1633276942.577000
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_arquivo_generica.vhd|
+Z20 !s107 C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_arquivo_generica.vhd|
+R13
+R14
+!s100 n91j>l9iG]5kaTQAfQNm81
+!i10b 1
+Arom_arquivo_generica_arch
+R5
+R6
+DEx4 work 20 rom_arquivo_generica 0 22 nbYn4fDe:?PXm2XfHL^@j2
+l37
+L18
+VG=<_6KNA94iiXC?5G?U_`3
+R9
+32
+R18
+R19
+R20
+R13
+R14
+!s100 ]eW@mJ96lSZ@U07aeBTiR2
+!i10b 1
+Erom_simples
+Z21 w1633272034
+R5
+R6
+R3
+Z22 8C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_simples.vhd
+Z23 FC:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_simples.vhd
+l0
+L5
+VHAh>JGiI8>?7@<FAJLoGG1
+R9
+32
+Z24 !s108 1633272229.956000
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_simples.vhd|
+Z26 !s107 C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_simples.vhd|
+R13
+R14
+!s100 nM2g^J0@GAiLlY]V4[Jz;2
+!i10b 1
+Arom_simples_arch
+R5
+R6
+DEx4 work 11 rom_simples 0 22 HAh>JGiI8>?7@<FAJLoGG1
+l54
+L12
+Vclg9AX7W5;M0IGLKSFZm_3
+R9
+32
+R24
+R25
+R26
+R13
+R14
+!s100 gB:6^mILm=0CfMBI3e38=0
+!i10b 1
+Arom_arch
+R5
+R6
+DEx4 work 11 rom_simples 0 22 TkS19dz>2>Y=ZHn3F=Ah=2
+l47
+L11
+VM6F]?QPfekkVd3oedC7403
+R9
+32
+R13
+R14
+FC:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_simples_cj.vhd
+w1633272084
+8C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_simples_cj.vhd
+!s108 1633272087.521000
+!s90 -reportprogress|300|-work|work|C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_simples_cj.vhd|
+!s107 C:/Users/gabri/OneDrive/Documents/SD2/EP2-memorias/rom_simples_cj.vhd|
+!s100 mla:9`=iXaH3F]Uh15B<U2
+!i10b 1
